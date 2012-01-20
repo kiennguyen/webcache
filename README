@@ -1,0 +1,6 @@
+Example using cache framework for web application
+- Ehcache
+- OSCache
+- LRU
+- LFU
+...
